@@ -39,7 +39,7 @@ Product.init(
         //Need to reference the category model's id
         references: {
           model: 'category',
-          key: 'id',
+          key: 'id'
         }
       },
     },

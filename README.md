@@ -31,7 +31,9 @@ You will be prompted that the app is now listening, and you should be good to go
 
 ## Video Guide
 
-[Video Link](https://drive.google.com/file/d/1coZlhcWtrcuIqphUvC8T10YNlc-GGIb0/view)
+[Video Link] Part One (https://drive.google.com/file/d/1sPwQ_LMWvUdswvBGMvGR4xrM9tEpy4FT/view)
+
+[Part Two] (https://drive.google.com/file/d/1wcR8b0PQBIFYzwICSRHI6h10xnxYu9PM/view)
 
 ## Authors
 Made by Devin 

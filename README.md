@@ -36,7 +36,7 @@ You will be prompted that the app is now listening, and you should be good to go
 ## Authors
 Made by Devin 
 - [Github](https://github.com/kuyadevin)
-- [LinkedIn](https
+- [LinkedIn](https://www.linkedin.com/in/devin-nguyen-9a0676212/)
 
 ## License 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)

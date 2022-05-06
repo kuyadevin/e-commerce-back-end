@@ -32,7 +32,7 @@ router.get('/:id', async (req, res) => {
 });
 
 // create new product
-router.post('/', (req, res) => {
+router.post('/', async (req, res) => {
   /* req.body should look like this...
     {
       product_name: "Basketball",
@@ -41,9 +41,9 @@ router.post('/', (req, res) => {
       tagIds: [1, 2, 3, 4]
     }
   */ 
- Product.create({
+ await Product.create({
    product_name: req.body.product_name,
-   price: req.body.prcie,
+   price: req.body.price,
    stock: req.body.stock,
    category_id:req.body.category_id,
    tagsIds: req.body.tagsIds

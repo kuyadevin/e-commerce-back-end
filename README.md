@@ -35,10 +35,6 @@ You will be prompted that the app is now listening, and you should be good to go
 
 [Part Two] (https://drive.google.com/file/d/1wcR8b0PQBIFYzwICSRHI6h10xnxYu9PM/view)
 
-## Problems
-
-I kept facing a problem with the routes to update and create a product. For some reason Insomnia gives me back an error when I run the function, yet they both execute. Both of those routes were already provide for us in the starter code.
-
 ## Authors
 Made by Devin 
 - [Github](https://github.com/kuyadevin)
